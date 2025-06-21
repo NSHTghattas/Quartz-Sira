@@ -1,5 +1,5 @@
 # Nations
-## Steel Kingdom
+## <span style="color:rgb(130, 130, 130)">Steel Kingdom</span>
 The Steel Kingdom, ruled by the Steel King, is comprised of mainly humans and orcs. The kingdom is based on the Steel Continent, the largest of five continents. The kingdom is made up of four Fiefs, practically nations of their own. One is ruled by the Steel King in name, but he has a vizier who manages the practical areas of governance, while the other three are ruled by Ministers. The Fiefs are Voln'ya, Neyanik, Stalle and Valaast. The climate of the continent is coldest in the world on the northern side, with a temperate atmosphere to the south, mainly made up of forest tundras and warm plains.
 
 ## Brass Empire
