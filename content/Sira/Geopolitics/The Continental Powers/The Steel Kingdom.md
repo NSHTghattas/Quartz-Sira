@@ -1,4 +1,4 @@
-The Steel Kingdom is an empire predominantly made up of Humans and Orc under the rule of the Steel King, the largest one of the four currently in Sira. The Steel Kingdom has four Fiefs, like nations, each ruled by a Minister except for Vol'nya, which is personally ruled by the Steel King.
+The Steel Kingdom is an empire predominantly made up of [[Humans]] and Orcs under the rule of [[The Steel King]], located in the Steel Continent, which is the largest one of the five currently in Sira. The Steel Kingdom has four Fiefs, like nations, each ruled by a Minister except for Vol'nya, which is personally ruled by the Steel King.
 
 # The Fiefs
 There are four Fiefs under the flag of the Steel Kingdom, Vol'nya, Neyanik, Stalle and Valaast. More info can be found in their own entries, but the following is a brief overview of each Fief.
@@ -12,9 +12,15 @@ Stalle is a special Fief, as it was the first settlement made by the Steel King 
 Valaast is the most recent Fief to be declared so. Over two hundred years ago, it was simply a place where the other Fiefs sent their criminals, exiles and other such people to distance them from proper civilization. Eventually, enough people gathered to make a city, and then a Fief. It is ruled by a Minister Ukijev.
 
 # History
-The Steel Kingdom was founded as a simple city of Stalle almost immediately after the Sundering.
+## The First Two Hundred Years
+**The Founding (2 P.S.):** The Steel Kingdom was founded as a simple city of Stalle almost immediately after the Sundering. For [twenty years]([[The Twenty Years of Peace]]) Stalle was the only center of civilization in it's continent, only expanding occasionally but mostly keeping to itself. It was surviving, but not thriving. After the twenty years were over, Sira had finally stabilized enough for the world to take a breath and begin living once more. For the Steel King, it meant it was time to expand his new kingdom. He moved to the far west of the continent, where the land was more desirable, and started the second city. It was named Vol'nya. Ever since then, it became his place of residence.
+
+For two hundred years, the kingdom expanded to fill the continent. During this time, the Steel Kingdom functioned more like an empire, allowing nations to form under the King's vassalage. At one point there were as many as seven nations under his control. There was only ever a rise in population, prosperity and quality of life. But then the first Incursion happened.
+
+**War of the First Incursion (222 P.S.):** The War of the [First Incursion]([[The Incursion Wars]]) was the first conflict the world had with undead. Coming from the Sapphire Isles, the undead caught everyone by surprise. Under the Steel King's strict rule, no conflict had been had beyond petty skirmishes between his nations, so this was the first taste of war that his kingdom (known as the Steel Empire at the time). They did not fare well. Two entire coastal nations fell before the gathered Steelic armies could repel the undead off their lands and back into the Ocean. In retaliation, the Steel King established a new regiment of soldiers to watch the shores for undead. The Steel King later went with an army to end this conflict along with the other Rulers. This marked the first time the Steel King personally involved himself in conflict for his kingdom. The war lasted three years.
+
 >[!warning]
->The rest of this section is still in progress while I get the other pages up to speed.
+>All other entries will be brought up to the 200 year mark before continuing this page.
 # Steelic Culture
 ## Vollen Culture
 Vollens (From Vol'nya) are known to be patriotic to their Fief and their empire (which is one and the same to them), approving of loyalty to anyone's own homeland. They have a reputation of being open minded on who can be a Steelic subject, as they possess the opinion that it is always better to have more people under the rule of the Steel King than not.

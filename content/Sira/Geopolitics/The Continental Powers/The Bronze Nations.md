@@ -1,0 +1,1 @@
+The Bronze Nations are two coastal city-states on either side of the Bronze Continent. They are both predominantly made up of Ironkin, with a Plantkin minority. 
