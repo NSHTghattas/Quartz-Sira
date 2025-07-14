@@ -9,22 +9,22 @@ Fortunately, there is a surviving excerpt of *Deepest Histories* by an anonymous
 Found below is the surviving excerpt of *Deepest Histories* describing the Sundering. It has been partially restored to the best of any historian's ability to show the correct words and names where it was unclear or missing.
 
 > [!quote]
->*The surviving {four} walked with heavy steps to the Heart*
->*Intent they were on ending it all, this war, this death*
->*First among them to go was {the one of Art}*
->*Fiercest of all he fought, for never has he forsaken his oath*
->*Next fell {the Monarch of Beauty}
->For all her people she fought, for Duty*
->*Third to taste bitter defeat was {the Master of Steel}
->For all his skill of arms, he was brought to kneel*
->{Passage missing}
->{Passage missing}
->*Last to survive, one who struck like thunder*
->*Was {the Weeper of Bronze}, unharmed but with Shame's Brand*
->*With the force of {their} final conflict, the world torn asunder*
->*They made for their {new domains}, leaving naught but {dead land}*
->{Passage missing}
->*Where {Death itself} reigns supreme.* 
+> - *The surviving {four} walked with heavy steps to the Heart*
+> - *Intent they were on ending it all, this war, this death*
+> - *First among them to go was {the one of Art}*
+> - *Fiercest of all he fought, for never has he forsaken his oath*
+> - *Next fell {the Monarch of Beauty}
+> - For all her people she fought, for Duty*
+> - *Third to taste bitter defeat was {the Master of Steel}
+> - For all his skill of arms, he was brought to kneel*
+> - {Passage missing}
+> - {Passage missing}
+> - *Last to survive, one who struck like thunder*
+> - *Was {the Weeper of Bronze}, unharmed but with Shame's Brand*
+> - *With the force of {their} final conflict, the world torn asunder*
+> - *They made for their {new domains}, leaving naught but {dead land}*
+> - {Passage missing}
+> - *Where {Death itself} reigns supreme.* 
 
 # After the Sundering
 The Sundering irrevocably changed the world, splitting the continents and ending the war on an apocalyptic note. Not much more information can be found here, only inferences based on assumptions based on intuition could give any idea of what happened immediately after, as this is the start of when record of history began to be kept, only some of it surviving the millennia and a half since. It is hypothesized that the technological level was at it's lowest at this time, being one of the factors that could have led to the Sundering in the first place. Proposals spring up claiming that there used to be different races than the seven that exist today, having gone extinct or in hiding ever since. There is no verifiable proof for either of these claims.
