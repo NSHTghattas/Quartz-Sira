@@ -1,3 +1,8 @@
+---
+title: Sira
+draft: true
+---
+
 # The Synopsis
 A crack team of Steel Legionnaires are sent to deliver a weapon to the forces stationed at the Sapphire Isles. But they encounter many obstacles along the way, including but not limited to; an old age ironkin destroyer, the sea, and undead. And most dangerously, themselves.
 
