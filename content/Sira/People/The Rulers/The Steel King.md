@@ -1,16 +1,15 @@
 The Steel King is the Ruler of the Steel Continent as an empire, and personal overseer of Vol'nya, the capital of the empire.
 
 >[!info]
->Name: The Steel King
->Aliases: The Steel King, The Master of Steel, War Incarnate
->Race: Unknown
->Age: 1500+
->Gender: Male
->Status: Alive
->Affiliation: The Steel Kingdom (Ruler)
->Occupation: King
->Residence: Vol'nya
-
+>- Name: The Steel King
+>- Aliases: The Steel King, The Master of Steel, War Incarnate
+>- Race: Unknown
+>- Age: 1500+
+>- Gender: Male
+>- Status: Alive
+>- Affiliation: The Steel Kingdom (Ruler)
+>- Occupation: King
+>- Residence: Vol'nya
 
 
 # Appearance

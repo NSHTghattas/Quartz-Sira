@@ -1,4 +1,4 @@
-The Sundering, alternatively referred to as The Shattering, is the event that marks the start of the modern calendar at 1 P.S. (Post-Sundering).
+The Sundering, alternatively referred to as The Shattering, is the event that marks the start of the modern calendar at 0/0/1/0/0 P.S. (Post-Sundering).
 
 # Events leading up to the Sundering
 The events leading up to the Sundering are closely linked to the Rulers themselves, which means that not a lot of information is readily available for specifics. The only things known are the facts that there was a large scale war that had been ongoing for a while, and that this was the conclusion of that war.
@@ -13,10 +13,10 @@ Found below is the surviving excerpt of *Deepest Histories* describing the Sunde
 > - *Intent they were on ending it all, this war, this death*
 > - *First among them to go was {the one of Art}*
 > - *Fiercest of all he fought, for never has he forsaken his oath*
-> - *Next fell {the Monarch of Beauty}
-> - For all her people she fought, for Duty*
-> - *Third to taste bitter defeat was {the Master of Steel}
-> - For all his skill of arms, he was brought to kneel*
+> - *Next fell {the Monarch of Beauty}*
+> - *For all her people she fought, for Duty*
+> - *Third to taste bitter defeat was {the Master of Steel}*
+> - *For all his skill of arms, he was brought to kneel*
 > - {Passage missing}
 > - {Passage missing}
 > - *Last to survive, one who struck like thunder*
