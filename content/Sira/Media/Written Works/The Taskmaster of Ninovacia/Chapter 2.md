@@ -1,3 +1,6 @@
+---
+draft: true
+---
 
 
 People usually don't like it when someone abruptly accosts them on the street and asks for information in a weird, barely understandable voice. They don't usually like it when said someone does not really look like them. They also have a tendency to throw whatever food they had been holding at that certain someone's face.

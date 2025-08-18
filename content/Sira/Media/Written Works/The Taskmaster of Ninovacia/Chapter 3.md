@@ -1,3 +1,6 @@
+---
+draft: true
+---
 
 
 Brathis charged the Death Razors silently, left shield arm held in front of her protectively, right hand poised, claw-like, to strike Zygomo. Zygomo dodged this time, side stepping the slash aimed for him. As he whirled away, he struck the Ironkin's back with his club *hard*.
