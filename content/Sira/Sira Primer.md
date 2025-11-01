@@ -1,5 +1,5 @@
 # DISCLAIMER
-## One of my goals for writing this setting was to deviate from as many standard fantasy staples (or putting a spin on them) as possible, which  any preconceived notions of standard D&D type characters may not end well or need extensive adjustment (If you plan on playing in this setting).
+## One of my goals for writing this setting was to deviate from as many standard fantasy staples (or putting a spin on them) as possible, which  any preconceived notions of standard fantasy type characters may not end well or need extensive adjustment (If you plan on playing in this setting).
 
 # The Blurb
 It has been millennia since The Sundering, and life goes on.
